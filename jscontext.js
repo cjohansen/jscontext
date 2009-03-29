@@ -121,7 +121,7 @@
             if (testcase) {
                 results.push(new JsUnitTest.Unit.Testcase(testname.replace("::", " "), testcase, testcases.setup, testcases.teardown));
             }
-        };
+        }
 
         return results;
     };

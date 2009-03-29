@@ -1,7 +1,7 @@
 = JsContext
-Official URL: http://github.com/cjohansen/jscontext/tree/master
-Christian Johansen (http://www.cjohansen.no/en)
-Twitter: @cjno
+* Official URL: http://github.com/cjohansen/jscontext/tree/master
+* Christian Johansen (http://www.cjohansen.no/en)
+* Twitter: @cjno
 
 == Description
 
